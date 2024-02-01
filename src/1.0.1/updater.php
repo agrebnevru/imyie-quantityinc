@@ -1,0 +1,5 @@
+<?
+if(IsModuleInstalled('imyie.quantityinc'))
+{
+	
+}
